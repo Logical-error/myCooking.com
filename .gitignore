@@ -1,0 +1,5 @@
+# * This "#" symbol is used for comments
+
+# * Ignore all .txt files
+
+*.txt
